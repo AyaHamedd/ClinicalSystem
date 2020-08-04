@@ -1,0 +1,6 @@
+Name: John Address: USA D.O.F.: 3 4 5 Phone: 5545 MedicalHistoryNo 2 4 5 6 flu antibiotic 8 0 343 influenz cataflam 
+Name: Alyssa Address: UK D.O.F.: 5 6 7 Phone: 033 MedicalHistoryNo 0 
+Name: Lama Address: Egypt D.O.F.: 4 5 1996 Phone: 404-0494 MedicalHistoryNo 1 1 2 2 cold antibiotic 
+Name: Monica Address: DownTown D.O.F.: 11 8 1996 Phone: 0123456789 MedicalHistoryNo 1 14 8 2011 Anemia Iron-Supplements 
+Name: Jina Address: Australia D.O.F.: 16 9 1996 Phone: 021345678 MedicalHistoryNo 0 
+Name: Mariam Address: Cairo D.O.F.: 4 5 6 Phone: 123456 MedicalHistoryNo 0 
